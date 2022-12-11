@@ -1,0 +1,9 @@
+/* CSS for PrXBlock */
+
+.prometheus_block .count {
+    font-weight: bold;
+}
+
+.prometheus_block p {
+    cursor: pointer;
+}
